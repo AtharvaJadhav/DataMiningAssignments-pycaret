@@ -1,0 +1,2 @@
+# DataMiningAssignments-pycaret
+Exploring pycaret 
