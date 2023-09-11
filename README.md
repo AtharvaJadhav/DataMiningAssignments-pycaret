@@ -1,4 +1,4 @@
-# DataMiningAssignments-pycaret
+# DataMiningAssignments-pycaret-gradio-jadbio
 
 Diabetes Prediction using PyCaret
 This project shows how to use PyCaret, a low-code machine learning library in Python, to predict diabetes occurrence in a population set.
