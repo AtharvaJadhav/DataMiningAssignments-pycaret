@@ -44,7 +44,7 @@ You can follow the code provided in the accompanying Jupyter Notebook to walk th
 gradio_examples_atharva.ipynb is the python notebook where I tried exploring gradio.
 
 3. AutoML:
-Following is the link for the autoML application exploration done on datarobot (here)[https://drive.google.com/drive/folders/1qTIsU7JpintxcSIesEgagDzZ8CiDuVvF?usp=sharing]
+Following is the link for the autoML application exploration done on datarobot [https://drive.google.com/drive/folders/1qTIsU7JpintxcSIesEgagDzZ8CiDuVvF?usp=sharing]
 
 
 
